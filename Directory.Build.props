@@ -50,7 +50,4 @@
       <HintPath>$(MelonAssemblies)\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <PropertyGroup>
-    <OutputPath>$(MsBuildThisFileDirectory)\Output\$(Configuration)\</OutputPath>
-  </PropertyGroup>
 </Project>
